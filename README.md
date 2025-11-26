@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Gianghuy075
-- 👀 I’m interested in python
-- 🌱 Weather Plus
-- 💞️ :P
 - 📫 How to reach me gianghuy752003@gmail.com
 
 <!---
