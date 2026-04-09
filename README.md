@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm **Giang Huy**, a passionate developer from Vietnam 🇻🇳
+Hey there! I'm **Giang Huy**, a passionate developer from Hanoi, Vietnam 🇻🇳
 
 - 📫 How to reach me: [gianghuy753@gmail.com](mailto:gianghuy753@gmail.com)
 ---
